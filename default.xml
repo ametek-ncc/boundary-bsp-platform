@@ -8,7 +8,7 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/boundarydevices" name="boundary"/>
   <remote fetch="https://github.com/OSSystems" name="oss"/>
-  <remote fetch="https://github.com/ametek-ncc" name="ncc"/>	
+  <remote fetch="https://github.com/ametekncc" name="ncc"/>	
   <remote fetch="git://github.com/meta-qt5" name="meta-qt5-repo"/> 
 
   <project remote="yocto" revision="morty" name="poky" path="sources/poky"/>
