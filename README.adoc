@@ -1,4 +1,4 @@
-= Boundary Devices BSP
+= Boundary Devices BSP For NCC-D4010-010/020
 
 To get the BSP you need to have `repo` installed and use it as:
 
@@ -15,7 +15,7 @@ Download the BSP source:
 $: PATH=${PATH}:~/bin
 $: mkdir boundary-bsp
 $: cd boundary-bsp
-$: repo init -u https://github.com/boundarydevices/boundary-bsp-platform -b morty
+$: repo init -u https://github.com/ametek-ncc/boundary-bsp-platform -b morty
 $: repo sync
 
 At the end of the commands you have every metadata you need to start work with.
