@@ -16,7 +16,7 @@
 
   <project remote="oe" revision="morty" name="meta-openembedded" path="sources/meta-openembedded"/>
 
-  <project remote="boundary" revision="morty" name="boundary-bsp-base" path="sources/base">
+  <project remote="ncc" revision="morty" name="boundary-bsp-base" path="sources/base">
 	<copyfile dest="README" src="README"/>
 	<copyfile dest="setup-environment" src="setup-environment"/>
   </project>
