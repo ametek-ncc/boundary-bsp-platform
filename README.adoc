@@ -15,7 +15,7 @@ Download the BSP source:
 $: PATH=${PATH}:~/bin
 $: mkdir boundary-bsp
 $: cd boundary-bsp
-$: repo init -u https://github.com/ametek-ncc/boundary-bsp-platform -b morty
+$: repo init -u https://github.com/ametekncc/boundary-bsp-platform -b morty
 $: repo sync
 
 At the end of the commands you have every metadata you need to start work with.
